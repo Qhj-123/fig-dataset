@@ -60,6 +60,6 @@ The fish_area.csv file stores data on predicted fish clustering areas.
 
 5.The dataset is 
 
-MobileNetV3-SE.pth is training optimal model data.
+MobileNetV3-SE.pth is the optimal model data.
 
 Dataset is fishdata , including four kinds of classification , 'strong','medium','week','none'.
