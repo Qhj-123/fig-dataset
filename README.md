@@ -6,7 +6,7 @@ Welcome to the repository of [Benchmark dataset on feeding intensity of the pear
 
 ## The construction workflow of benchmark dataset
 
-![](/Users/a1-6/Documents/研究生/成果/2_Aquaculture  Reports/4出版/figure/fig5/fig5.png)
+
 
 
 
