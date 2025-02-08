@@ -5,7 +5,7 @@ Welcome to the repository of [Benchmark dataset on feeding intensity of the pear
 
 
 ## The construction workflow of benchmark dataset
-
+![workflow](https://ars.els-cdn.com/content/image/1-s2.0-S2352513425000274-gr5_lrg.jpg)
 
 
 
